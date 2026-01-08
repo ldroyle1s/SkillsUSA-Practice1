@@ -1,0 +1,19 @@
+img{
+    max-width: 100%;
+}
+.navbar{
+    position: fixed;
+    width: 100%;
+}
+#background-Text{
+    font-size: 7em;
+}
+header{
+    margin-bottom: 50px;
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: Domine;
+}
+p{
+    font-family: Overpass ;
+}
