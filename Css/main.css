@@ -1,19 +1,35 @@
 img{
     max-width: 100%;
 }
+
 .navbar{
     position: fixed;
     width: 100%;
+    z-index: 100;
+    top: 0;
+
+
 }
-#background-Text{
-    font-size: 7em;
+body{
+
 }
+
 header{
     margin-bottom: 50px;
 }
 h1, h2, h3, h4, h5, h6{
     font-family: Domine;
 }
-p{
+p, li, ul, ol{
     font-family: Overpass ;
+}
+
+ul{
+    text-align: left;
+}
+#News-para{
+    text-align: left;
+}
+footer{
+    background-color: white;
 }
